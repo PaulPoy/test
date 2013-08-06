@@ -1,5 +1,7 @@
 test
 ====
 
-it's a test\n
+it's a test
+
+
 simply a test
